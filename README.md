@@ -1,2 +1,1 @@
-# shrtsc
-ss
+the shrtsc homepage
